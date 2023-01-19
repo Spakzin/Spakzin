@@ -1,9 +1,9 @@
 ## Bem-vindo(a) Visitante ao Meu Perfil <(￣︶￣)>
 
  <div>
-   <a href="https://github.com/Sparkzin">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sparkzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkzin&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Spakzin">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spakzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spakzin&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -22,6 +22,6 @@
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- ![Snake animation](https://github.com/Sparkzin/Sparkzin/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Spakzin/Spakzin/blob/output/github-contribution-grid-snake.svg)
 
 </div>
